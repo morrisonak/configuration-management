@@ -4,7 +4,7 @@ publish_date : "2020-12-26T13:12:48Z"
 description : "In any project, changes are inevitable. It is important to have a process in place for identifying and managing changes in order to ensure that the project stays on track and delivers the intended results. In this post, we will discuss how configuration management can help to manage changes to a civil engineering project.
 "
 og:image : "assets/images/next.js.png"
-tags : ["Civil Engineering", "Configuration Management, Change Management"]
+tags : ["Civil Engineering", "Configuration Management", "Change Management"]
 title : "Managing Changes to Civil Engineering Projects"
 allow_iframes: true
 cover_html: 
