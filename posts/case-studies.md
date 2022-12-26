@@ -1,10 +1,10 @@
 ---
 author : "Admin"
 publish_date : "2020-12-26T13:13:48Z"
-description : "Configuration management involves using tools and techniques to plan, organize, and control the changes that occur during the lifecycle of a project. In this post, we will discuss some of the tools and techniques that can be used to support configuration management in civil engineering."
+description : "Real-world examples of successful configuration management in civil engineering can provide valuable insights into best practices and lessons learned. In this post, we will discuss some case studies of configuration management in civil engineering."
 og:image : "assets/images/next.js.png"
 tags : ["Civil Engineering", "Configuration Management", "Version control", "Project Management Software", "Simulation and Prototyping"]
-title : "Tools and Techniques for Configuration Management in Civil Engineering"
+title : "Case Studies in Configuration Management in Civil Engineering"
 allow_iframes: true
 cover_html: 
 ---
