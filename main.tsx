@@ -14,10 +14,10 @@ blog({
   coverTextColor:"white",
   
   links: [
-    { title: "Email", url: "#" },
-    { title: "GitHub", url: "#" },
-    { title: "Twitter", url: "#" },
-    { title: "Linkedin", url: "#" },
+    { title: "Email", url: "/" },
+    { title: "GitHub", url: "/" },
+    { title: "Twitter", url: "/" },
+    { title: "Linkedin", url: "/" },
   ],
   lang: "en",
   favicon: `${Deno.env.get("URL")}favicon.ico`,
