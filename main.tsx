@@ -17,7 +17,7 @@ blog({
     { title: "Email", url: `${Deno.env.get("URL")}`    },
     { title: "GitHub", url: `${Deno.env.get("URL")}`   },
     { title: "Twitter", url: `${Deno.env.get("URL")}`  },
-    { title: "Linkedin", url: `${Deno.env.get("URL")}` },
+    { title: "Linkedin", url: `${Deno.env.get("URL")}google8f38f50afeacbc2d.html` },
   ],
   lang: "en",
   favicon: `${Deno.env.get("URL")}favicon.ico`,
