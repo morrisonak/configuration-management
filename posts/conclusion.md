@@ -1,6 +1,6 @@
 ---
 author : "Admin"
-publish_date : "2020-12-19T13:13:48Z"
+publish_date : "2020-12-18T13:13:48Z"
 description : "In this final post, we will discuss the role of configuration management in the ongoing success of civil engineering projects, and explore some emerging trends and technologies in configuration management."
 og:image : "assets/images/next.js.png"
 tags : ["Civil Engineering", "Configuration Management", "Version control"]

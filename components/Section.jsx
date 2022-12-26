@@ -9,7 +9,7 @@ export function Section() {
       <div class="container px-5 py-24 mx-auto">
         <div class="lg:w-3/3 flex flex-col sm:flex-row sm:items-center p-2 items-start mx-auto">
           <h6 class="flex-grow sm:pr-16 text-xl font-medium title-font text-white">
-            Read more articles related engineering
+            Read more articles related to engineering
           </h6>
           <a
             href="https://morrisonj.com"
