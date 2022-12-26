@@ -8,7 +8,7 @@ import "https://deno.land/x/dotenv@v3.2.0/load.ts";
 blog({
   author: "Admin",
   title: "Configuration management",
-  description: "Deep Dive",
+  description: "Deep Dive into Configuration Management",
   //avatar:`${Deno.env.get("URL")}assets/logos/profile.jpg`,
   avatarClass: "rounded-full",
   coverTextColor:"white",
