@@ -1,7 +1,7 @@
 ---
 author : "Admin"
 publish_date : "2020-12-26T13:10:48Z"
-description : "Basic Introduction About Next.js #SeriesStart"
+description : "Introduction to Configuration Management in Civil Engineering"
 og:image : "assets/images/next.js.png"
 tags : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
 title : "Introduction to Configuration Management in Civil Engineering"
@@ -10,7 +10,7 @@ cover_html: <img src="assets/images/next.js.png" alt="What is nextjs" />
 ---
 
 
-Introduction to Configuration Management in Civil Engineering
+# Introduction to Configuration Management in Civil Engineering
 
 Configuration management is a systematic approach to planning, organizing, and controlling the changes that occur during the lifecycle of a project. It is used to ensure that a project is completed on time, within budget, and to the required quality standards.
 
