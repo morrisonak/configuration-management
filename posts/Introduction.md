@@ -3,7 +3,7 @@ author : "Admin"
 publish_date : "2020-12-26T13:10:48Z"
 description : "Introduction to Configuration Management in Civil Engineering"
 og:image : "assets/images/next.js.png"
-tags : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
+tags : ["Civil Engineering", "Configuration Management"]
 title : "Introduction to Configuration Management in Civil Engineering"
 allow_iframes: true
 cover_html: <img src="assets/images/next.js.png" alt="What is nextjs" />
