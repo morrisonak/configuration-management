@@ -6,11 +6,11 @@ og:image : "assets/images/next.js.png"
 tags : ["Civil Engineering", "Configuration Management"]
 title : "Introduction to Configuration Management in Civil Engineering"
 allow_iframes: true
-cover_html: <img src="assets/images/next.js.png" alt="What is nextjs" />
+cover_html:
 ---
 
 
-# Introduction to Configuration Management in Civil Engineering
+ Introduction to Configuration Management in Civil Engineering
 
 Configuration management is a systematic approach to planning, organizing, and controlling the changes that occur during the lifecycle of a project. It is used to ensure that a project is completed on time, within budget, and to the required quality standards.
 
