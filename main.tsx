@@ -12,17 +12,18 @@ blog({
   //avatar:`${Deno.env.get("URL")}assets/logos/profile.jpg`,
   avatarClass: "rounded-full",
   coverTextColor:"white",
+  
   links: [
-    { title: "Email", url: "mailto:officialrajdeepsingh@gmail.com" },
-    { title: "GitHub", url: "https://github.com/officialrajdeepsingh" },
-    { title: "Twitter", url: "https://twitter.com/Official_R_deep" },
-    { title: "Linkedin", url: "https://www.linkedin.com/in/officalrajdeepsingh/" },
+    { title: "Email", url: "#" },
+    { title: "GitHub", url: "#" },
+    { title: "Twitter", url: "#" },
+    { title: "Linkedin", url: "#" },
   ],
   lang: "en",
   favicon: `${Deno.env.get("URL")}favicon.ico`,
   section: <Section/>,
   theme:"auto",
-  cover:`${Deno.env.get("URL")}assets/logos/backgroundbanner.png`,
+  cover:`${Deno.env.get("URL")}assets/logos/background-banner.png`,
   ogImage: {
     url: `${Deno.env.get("URL")}assets/logos/Frame.png`,
     twitterCard:"summary_large_image" 
