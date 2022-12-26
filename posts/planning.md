@@ -1,6 +1,6 @@
 ---
 author : "Admin"
-publish_date : "2020-12-26T13:10:48Z"
+publish_date : "2020-12-26T13:11:48Z"
 description : "Effective planning and organization are essential to the success of a civil engineering project. In this post, we will focus on how configuration management can help to ensure that a project is well-planned and well-organized."
 og:image : "assets/images/next.js.png"
 tags : ["Civil Engineering", "Configuration Management"]

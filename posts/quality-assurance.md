@@ -1,6 +1,6 @@
 ---
 author : "Admin"
-publish_date : "2020-12-26T13:10:48Z"
+publish_date : "2020-12-26T13:13:48Z"
 description : "Quality assurance and testing are critical to the success of a civil engineering project. They help to ensure that the project meets the required quality standards and that any issues are identified and addressed before the project is completed. In this post, we will discuss how configuration management can support quality assurance and testing in civil engineering."
 og:image : "assets/images/next.js.png"
 tags : ["Civil Engineering", "Configuration Management, "Change Management", "Quality Assurance"]
