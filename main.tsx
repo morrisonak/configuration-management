@@ -6,10 +6,10 @@ import "https://deno.land/x/dotenv@v3.2.0/load.ts";
 
 
 blog({
-  author: "Rajdeep singh",
-  title: "Hello, my name is Rajdeep Singh",
-  description: "Nice to meet you",
-  avatar:`${Deno.env.get("URL")}assets/logos/profile.jpg`,
+  author: "Admin",
+  title: "Configuration management",
+  description: "Deep Dive",
+  //avatar:`${Deno.env.get("URL")}assets/logos/profile.jpg`,
   avatarClass: "rounded-full",
   coverTextColor:"white",
   links: [
